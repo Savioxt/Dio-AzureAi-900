@@ -15,6 +15,6 @@ Sinto uma tristeza profunda
 por não ter com quem dividir
 os dias bons e ruins. Triste
 
-![Texto 2](Images/2.png)
+![Texto 2](2.png)
 
 
